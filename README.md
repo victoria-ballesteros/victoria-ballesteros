@@ -1,4 +1,4 @@
-#  🌟 Victoria Ballesteros
+#  🌟 Vicky
 
 **`Student and Developer`**
 
