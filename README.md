@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=venom&height=175&color=gradient&text=Hi%20there!"/>
 </p>
 
-´´´College Student and Developer´´´´
+`College Student and Developer`
 <br />
 ---
 ### 🧰 Currently learning
