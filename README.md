@@ -5,8 +5,8 @@
 <h2>🌸 A little bit about me</h2>
 
 ```yaml
-name: Victoria Ballesteros
-located_in: San Cristobal, Venezuela
+name: "Victoria Ballesteros",
+located_in: "San Cristobal, Venezuela"
 education:
   [
     "Self-Taught Developer",
