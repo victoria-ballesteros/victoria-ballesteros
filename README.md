@@ -6,12 +6,12 @@
 <br />
 ---
 <h2> 💻 Currently working on </h2>
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="GitHub" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 
 <br />
 
 <h2>🌸 A little bit about me</h2>
+
 ```yaml
 name: Victoria Ballesteros
 located_in: San Cristobal, Venezuela
