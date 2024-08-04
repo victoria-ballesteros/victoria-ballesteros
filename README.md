@@ -27,5 +27,5 @@ hobbies: ["Gaming", "Reading", "Writing", "Drawing", "Studying"]
 ```
 
 <h2> 💻 Currently working on </h2>
-<img align="left" alt="GitHub" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-plain.svg" />
+<img align="left" alt="GitHub" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
 <br />
