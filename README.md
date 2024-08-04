@@ -1,8 +1,6 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&text=Hi%20there!"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hi%20there!&height=100&section=header"/>
 </p>
-
-
 #  🌟 Vicky
 
 **`Student and Developer`**
