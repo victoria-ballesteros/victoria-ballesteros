@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=venom&height=175&color=gradient&text=Hi%20there!"/>
 </p>
 
-<h2>🌸 A little bit about me</h2>
+<h2>🌸 A little byte about me</h2>
 
 ```yaml
 name: "Victoria Ballesteros",
